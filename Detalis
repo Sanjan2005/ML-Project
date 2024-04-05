@@ -1,5 +1,5 @@
 This Project is Model is A Hugging Face Model For TExt Summarization.
-For this I Used Cnn Daily Mail Dataset a dataset of 1.47GB size Training Data.
+For this I Used Cnn Daily Mail Dataset a dataset of 1.17GB size Training Data.
 I uesd a Pretrained Pegasus Model developed By Google
 This model is an Extractive Summarization model
 
